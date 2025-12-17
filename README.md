@@ -1,20 +1,10 @@
 ## Hi I am Ehsan 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 Currently working in the area of Robotics, specially in the domain of Mobile Robots, UAVs, Autonomous Navigation, SLAM, Motion Planning, Computer Vision.
-- 🌱 Currently using the Robot Operating System (ROS 1 & 2) to design the software architecture of my Robotic Systems.
-- ⚡ Worked with UAVs, Pepper, NAO, HoloLens2, Intel RealSense D435, ZED2, TIAGO, Universal Robot and TurtleBots.
-- 🐍 Profecient in Programming languages such as Python, C, C++, C# and MATLAB.
-- 📫 How to reach me: Email: awaistahir29@gmail.com
+- 🔭 I’m currently working on the area of Robotics, specially in the domain of Mobile Robots, UAVs, Autonomous Navigation, SLAM, Motion Planning, Computer Vision.
+- 🐍 Profecient in Programming languages such as Python, C, C++, C# , cuda.
+- 🌱 I’m currently learning how to use Nvidia technologies like Isaac ROS, Deepstream , TensorRT, Jetpack and so on
+- ⚡ Worked with SOTA deep learning model like YOLO, CLRerNet , and designing CNNs architecture like Unet.
+- 📫 How to reach me: ehsan.taheri1400@gmail.com
 
 ---
 
@@ -37,6 +27,7 @@ Here are some ideas to get you started:
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.mysql.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://nodejs.org/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/en" target="_blank"> <img src="https://nvidianews.nvidia.com/multimedia/corporate/nvidia-logos#gallery-4" alt="nodejs" width="40" height="40"/> </a>
   
   </p>
 
