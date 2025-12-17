@@ -44,7 +44,6 @@ Architected a Zero-Copy Camera Pipeline using custom Isaac ROS (NITROS) nodes, e
 
 <p align="left">
 <a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" width="40" height="40"/> </a>
-<!-- Fixed Nvidia Icon using simple-icons -->
 <a href="https://developer.nvidia.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" alt="nvidia" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a>
@@ -54,8 +53,8 @@ Architected a Zero-Copy Camera Pipeline using custom Isaac ROS (NITROS) nodes, e
 
 <p align="left">
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://developer.nvidia.com/tensorrt" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorrt-placeholder" width="40" height="40"/> </a>
-<!-- Note: Using TF icon as placeholder for TRT or generic AI if specific SVG not found, or stick to Nvidia logo above -->
+<!-- Using Nvidia icon for TensorRT as it is part of Nvidia SDKs -->
+<a href="https://developer.nvidia.com/tensorrt" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" alt="tensorrt" width="40" height="40"/> </a>
 </p>
 
 ⚙️ DevOps & Tools
@@ -68,5 +67,5 @@ Architected a Zero-Copy Camera Pipeline using custom Isaac ROS (NITROS) nodes, e
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DEhsan-Taheri%26show_icons%3Dtrue%26theme%3Dradical" alt="Ehsan's Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME%26show_icons%3Dtrue%26theme%3Dradical" alt="Ehsan's Stats" />
 </p>
