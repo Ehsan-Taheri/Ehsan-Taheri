@@ -67,5 +67,5 @@ Architected a Zero-Copy Camera Pipeline using custom Isaac ROS (NITROS) nodes, e
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME%26show_icons%3Dtrue%26theme%3Dradical" alt="Ehsan's Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DEhsan-Taheri%26show_icons%3Dtrue%26theme%3Dradical" alt="Ehsan's Stats" />
 </p>
