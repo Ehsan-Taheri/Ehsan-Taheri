@@ -12,7 +12,7 @@ I specialize in squeezing maximum performance out of embedded hardware. Currentl
 
 🏆 Recent Highlights (H2 2025)
 
-Area
+
 
 Achievement
 
@@ -22,7 +22,7 @@ Optimized Visual Odometry from 0.3 FPS to ~180 FPS (600x boost) using Nvidia Dri
 
 🧠 Edge AI
 
-Full-stack deployment of CLRerNet (SOTA Lane Detection) on Jetson Orin via TensorRT (FP16) & Custom C++ Pre-processing.
+Full-stack deployment of CLRerNet (SOTA Lane Detection) on Jetson Orin via TensorRT  & Custom C++ Pre-processing.
 
 🤖 Robotics
 
