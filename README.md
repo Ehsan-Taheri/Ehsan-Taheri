@@ -1,65 +1,101 @@
-Hi, I'm Ehsan 👋
+# Hi, I'm Ehsan 👋 
 
-🚀 **Robotics & Computer Vision Engineer | Edge AI Specialist**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ehsan-Taheri&label=Profile%20views&color=0e75b6&style=flat" alt="Ehsan-Taheri" />
+</p>
 
-I specialize in squeezing maximum performance out of embedded hardware. Currently focused on ADAS, Autonomous Navigation, and High-Performance Edge Computing on Nvidia Jetson platforms.
+### 🚀 Robotics & Computer Vision Engineer | AI & Game Dev Specialist
 
-🔭 **Current Focus:** Optimization of Deep Learning models (TensorRT) and Zero-Copy Robotics Pipelines (Isaac ROS).
+I specialize in squeezing maximum performance out of embedded hardware. Currently focused on **High-Performance Edge Computing**, **Generative AI**, and **Immersive Simulations**.
 
-⚡ **Super Power:** Bridging the gap between Research (PyTorch/OpenCV) and Production (C++/CUDA/ROS 2).
+---
 
-📫 **Contact:** ehsan.taheri1400@gmail.com
+### 🌟 What I Do
+
+- 🤖 **Robotics & Vision:** Building Zero-Copy pipelines and optimizing SOTA models for real-time inference on Nvidia Jetson.
+- 🧠 **LLMs & NLP:** Developing intelligent agents and chatbots using RAG, LangChain, and fine-tuning Open-Source models.
+- 🎮 **Game Dev & Sim:** Architecting complex systems in Unity and Unreal Engine for both gaming and high-fidelity robotics simulations.
+- ⚡ **Optimization:** Bridging the gap between Python research and C++/CUDA production code (600x+ speedups).
 
 ---
 
 ### 🏆 Recent Highlights (H2 2025)
 
-**🚀 Performance**
-Optimized Visual Odometry from 0.3 FPS to ~180 FPS (600x boost) using Nvidia DriveWorks & CUDA.
-
-**🧠 Edge AI**
-Full-stack deployment of CLRerNet (SOTA Lane Detection) on Jetson Orin via TensorRT & Custom C++ Pre-processing.
-
-**🤖 Robotics**
-Architected a Zero-Copy Camera Pipeline using custom Isaac ROS (NITROS) nodes, eliminating CPU bottlenecks for 4K streams.
+- **🚀 Performance:** Optimized Visual Odometry from **0.3 FPS to ~180 FPS** using Nvidia DriveWorks & CUDA.
+- **🧠 Generative AI:** Deployed custom **LLM-based Chatbots** for specialized technical documentation.
+- **🎮 Simulation:** Created a high-fidelity digital twin in **Unreal Engine 5** for autonomous drone testing.
+- **🤖 Robotics:** Architected a **Zero-Copy Camera Pipeline** for 4K streams using Isaac ROS (NITROS).
 
 ---
 
 ### 🛠️ Technical Stack
 
-**💻 Languages**
+<details>
+<summary><b>💻 Languages & Core</b></summary>
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" alt="cuda" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-plusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  
+</p>
+</details>
+
+<details>
+<summary><b>🤖 Robotics & Edge AI</b></summary>
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary><b>🧠 NLP & LLMs</b></summary>
+<p align="left">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary><b>🎮 Game Development</b></summary>
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary><b>⚙️ DevOps & Tools</b></summary>
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+</details>
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
+<a href="mailto:ehsan.taheri1400@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-**🤖 Robotics & Embedded**
-<p align="left">
-<a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" width="40" height="40"/> </a>
-<a href="https://developer.nvidia.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" alt="nvidia" width="40" height="40"/> </a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a>
-</p>
+---
 
-**🧠 AI & Frameworks**
-<p align="left">
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://developer.nvidia.com/tensorrt" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" alt="tensorrt" width="40" height="40"/> </a>
-</p>
-
-**⚙️ DevOps & Tools**
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-</p>
-
-<br>
+### 📊 Github Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ehsan-Taheri&show_icons=true&theme=radical" alt="Ehsan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ehsan-Taheri&show_icons=true&theme=radical" alt="Ehsan's Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehsan-Taheri&theme=radical" alt="Ehsan's Streak" />
 </p>
