@@ -4,47 +4,41 @@
   <img src="https://komarev.com/ghpvc/?username=Ehsan-Taheri&label=Profile%20views&color=0e75b6&style=flat" alt="Ehsan-Taheri" />
 </p>
 
-### 🚀 Robotics & Computer Vision Engineer | AI & Game Dev Specialist
+### 🚀 AI Engineer | Computer Vision & Edge Computing Specialist
 
-I specialize in squeezing maximum performance out of embedded hardware. Currently focused on **High-Performance Edge Computing**, **Generative AI**, and **Immersive Simulations**.
+I am an AI Engineer specialized in Computer Vision and Edge AI, with hands-on experience deploying real-time models on NVIDIA Jetson platforms. I focus on optimizing deep learning models for low-latency, high-performance environments, bridging the gap between research and production. 
 
----
-
-### 🌟 What I Do
-
-- 🤖 **Robotics & Vision:** Building Zero-Copy pipelines and optimizing SOTA models for real-time inference on Nvidia Jetson.
-- 🧠 **LLMs & NLP:** Developing intelligent agents and chatbots using RAG, LangChain, and fine-tuning Open-Source models.
-- 🎮 **Game Dev & Sim:** Architecting complex systems in Unity and Unreal Engine for both gaming and high-fidelity robotics simulations.
-- ⚡ **Optimization:** Bridging the gap between Python research and C/C++/CUDA production code (600x+ speedups).
+With a strong background spanning autonomous systems (ADAS, SLAM), automated testing, and Game AI, I build robust and intelligent systems for both real-world and dynamic simulation-based environments.
 
 ---
 
-### 🏆 Recent Highlights (H2 2025)
+### 🌟 Experience Highlights
 
-**🚀 Performance**
-Optimized Visual Odometry from **0.3 FPS to ~180 FPS** (600x boost) using Nvidia DriveWorks & CUDA.
+- 🤖 **Autonomous Systems:** Built navigation pipelines for GNSS-denied environments using SLAM and VIO, optimized for AGX Orin hardware accelerators.
+- 🚘 **Computer Vision for ADAS:** Designed real-time driver-drowsiness detection (via MediaPipe) and deployed CLRerNet lane-detection models using TensorRT & Isaac ROS.
+- 🎮 **Game AI:** Developed adaptive NPC interactions using Reinforcement Learning and designed AI-powered chatbots that improved player retention by 30%.
+- ⚙️ **Embedded & Testing:** Developed automated testing frameworks for C-based embedded systems using Ceedling and Unity.
 
-**🧠 Generative AI & NLP**
-Deployed custom **LLM-based Chatbots** for specialized technical documentation and automated workflows.
+---
 
-**🎮 Simulation & Game Dev**
-Created a high-fidelity digital twin in **Unreal Engine 5** for autonomous drone testing.
+### 🏆 Featured Projects
 
-**🤖 Robotics**
-Architected a **Zero-Copy Camera Pipeline** using custom Isaac ROS (NITROS) nodes, eliminating CPU bottlenecks for 4K streams.
+* 🧠 **Brain Tumor Segmentation:** Built a Unet CNN model to segment brain tumors from 3D MRI images, achieving **99% accuracy**.
+* 💬 **RAG Chat Bot:** Deployed a multi-source chatbot on Streamlit using HuggingFace LLMs, reducing response time by **40%**.
+* 🍄 **Super Mario AI:** Trained an AI agent using the PPO Reinforcement Learning algorithm to play Super Mario, achieving a **75% completion rate**.
+* 🌌 **Galaxy Classification:** Built an ML pipeline using OpenCV, SVM, and XGBoost to classify elliptical galaxies from noisy 2D images.
 
 ---
 
 ### 🛠️ Technical Stack
 
-**💻 Languages & Core**
+**💻 Languages**
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" alt="cuda" width="40" height="40"/> </a>
-<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
 </p>
 
 **🤖 Robotics & Embedded**
@@ -57,9 +51,10 @@ Architected a **Zero-Copy Camera Pipeline** using custom Isaac ROS (NITROS) node
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
 </p>
 
-**🧠 AI, NLP & Frameworks**
+**🧠 AI, ML & Frameworks**
 <p align="left">
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://developer.nvidia.com/tensorrt" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" alt="tensorrt" width="40" height="40"/> </a>
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>
 </p>
@@ -79,6 +74,16 @@ Architected a **Zero-Copy Camera Pipeline** using custom Isaac ROS (NITROS) node
 </p>
 
 <br>
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+<a href="mailto:ehsan.taheri1400@gmail.com"><img src="https://img.shields.io/badge/Email-ehsan.taheri1400@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/ehsantaheri-ai"><img src="https://img.shields.io/badge/LinkedIn-Ehsan%20Taheri-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.kaggle.com/ehsantaheri"><img src="https://img.shields.io/badge/Kaggle-Ehsan%20Taheri-blue?style=flat-square&logo=kaggle"></a>
+</p>
 
 ---
 
